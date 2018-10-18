@@ -1,6 +1,6 @@
 {
 	"name": "matterjs",
-	"filename": "matterjs.min.js",
+	"filename": "matter/dist/matter.js",
 	"version": "0.1.3",
 	"description": "A tiny collection of UI components",
 	"repository": {
